@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "phantom.app"
+    namespace = "com.example.phantom
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
